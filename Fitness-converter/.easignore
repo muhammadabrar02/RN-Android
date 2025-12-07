@@ -1,0 +1,16 @@
+# Exclude node modules, build files, caches, etc.
+node_modules
+.expo
+.expo-shared
+.cache
+.vscode
+*.log
+build
+dist
+web-build
+android
+ios
+.git
+*.bak
+*.tmp
+*.temp

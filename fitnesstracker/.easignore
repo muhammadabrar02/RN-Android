@@ -1,0 +1,46 @@
+# Node modules
+node_modules
+
+# Git repository
+.git
+.gitignore
+
+# Expo and Cache
+.expo
+.expo-shared
+dist
+web-build
+npm-debug.*
+yarn-debug.*
+yarn-error.log
+
+# Android build folders
+android/app/build
+android/.gradle
+android/.idea
+android/local.properties
+android/.cxx
+
+# iOS build folders
+ios/build
+ios/Pods
+ios/*.xcworkspace
+ios/*.xcodeproj
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Images / videos temporary assets
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.zip
+
+# Metro cache
+.expo
+.cache

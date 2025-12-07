@@ -37,7 +37,6 @@ function App(): JSX.Element {
     return (
       <SafeAreaView>
         <ActivityIndicator />
-        <ActivityIndicator />
       </SafeAreaView>
     )
   }
